@@ -169,6 +169,8 @@ Change scales and chords on the fly using hotkeys so you never lose focus in-gam
 ###### **Bugs \& Limitations**
 
 The app is optimized for playing within the root scale. Notes can travel up to two scales, matching typical player XP progression, but has not been tested (I'm not high enough level yet!)
+
+
 I cannot get the ABC player to discriminate chords from single notes, therefore chords are played as an arpeggiated note sequence rather than simultaneously. 
 
 
