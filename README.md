@@ -21,7 +21,14 @@ First a shout out to [xEdziu](https://github.com/xEdziu/midi2key). I went lookin
 
 
 I imagine this would work with any application with the right keybinds associated, although there are several games that do not allow some scripts that could be interpreted as an anti-cheat, so the player uses this at his/r own risk.
-See ![screenie1](https://github.com/dementia5/LOTRO-Bard-Controller/blob/main/LBC1.jpg) and ![screenie2](https://github.com/dementia5/LOTRO-Bard-Controller/blob/main/LBC2.jpg) for layout.
+
+
+
+![screenie1](https://github.com/dementia5/LOTRO-Bard-Controller/blob/main/LBC1.jpg) 
+
+
+
+![screenie2](https://github.com/dementia5/LOTRO-Bard-Controller/blob/main/LBC2.jpg) for layout.
 
 
 MAKE SURE YOU RUN THIS AS ADMINISTRATOR!
