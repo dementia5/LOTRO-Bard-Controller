@@ -43,11 +43,11 @@ MAKE SURE YOU RUN THIS AS ADMINISTRATOR!
 
 
 
-#### Features
+### Features
 
 
 
-###### MIDI Interface for LOTRO
+### MIDI Interface for LOTRO
 
 Play in-game music using your MIDI keyboard or controller, bypassing awkward QWERTY
 
@@ -55,13 +55,13 @@ keybinds. Enjoy natural, fluid performancejust like a real instrument.
 
 
 
-###### MIDI Device Chooser
+#### MIDI Device Chooser
 
 Select your preferred MIDI input device with ease.
 
 
 
-###### MIDI Player \& Importer
+#### MIDI Player \& Importer
 
 Load, play, and import MIDI files. Export your performances to ABC files for use in-game or with
 
@@ -69,13 +69,13 @@ other tools.
 
 
 
-###### Real-Time ABC Recording
+#### Real-Time ABC Recording
 
 Capture your live performances and instantly convert them to ABC notation.
 
 
 
-###### Arpeggiator \& Sequencer
+#### Arpeggiator \& Sequencer
 
 Built-in arpeggiator with popular scales. Sequence notes and chords for dynamic, layered
 
@@ -83,7 +83,7 @@ performances. Choose from pentatonics, dorian and more.
 
 
 
-###### Chord Builder
+#### Chord Builder
 
 Synthesize and play popular chords with a single keypress. Choose from minor,
 
@@ -91,13 +91,13 @@ augmented, maj7 and more.
 
 
 
-###### Raw Data Output \& Spectral Histogram
+#### Raw Data Output \& Spectral Histogram
 
 Visualize MIDI data and note spectra for advanced users and curious musicians.
 
 
 
-###### Default Keybind Support
+#### Default Keybind Support
 
 Works out-of-the-box with LOTROs default keybinds\* no manual setup required.
 
@@ -155,7 +155,7 @@ Change scales and chords on the fly using hotkeys so you never lose focus in-gam
 
 
 
-###### **Bugs \& Limitations**
+#### **Bugs \& Limitations**
 
 The app is optimized for playing within the root scale. Notes can travel up to two scales, matching typical player XP progression, but has not been tested (I'm not high enough level yet!)
 
@@ -164,7 +164,7 @@ I cannot get the ABC player to discriminate chords from single notes, therefore 
 
 
 
-###### Timing Discrepancies:
+#### Timing Discrepancies:
 
 Timing is managed but may not be perfect, especially at higher pitches.
 
@@ -172,7 +172,7 @@ All single notes playback reliably.
 
 
 
-###### Keybind Limitations:
+#### Keybind Limitations:
 
 Some advanced chords or scales may require creative key combinations due to LOTROs
 
@@ -180,7 +180,7 @@ keybind constraints.
 
 
 
-**Getting Started**
+#### Getting Started
 
 \*	Connect your MIDI device.
 
