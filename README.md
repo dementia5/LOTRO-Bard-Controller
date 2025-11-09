@@ -16,7 +16,7 @@
 
 
 
-First a shout out to xEdziu at https://github.com/xEdziu/midi2key. I went looking for a MIDI2KEY solution, but some were so antiquated they simply would not run on Windows 11. I couldn't find a mechanism anywhere that would allow selecting multiple MIDI devices, of which I have several operating in tandem. So I took a chance building off of this. I'm happy with the results.
+First a shout out to [xEdziu](https://github.com/xEdziu/midi2key). I went looking for a MIDI2KEY solution, but some were so antiquated they simply would not run on Windows 11. I couldn't find a mechanism anywhere that would allow selecting multiple MIDI devices, of which I have several operating in tandem. So I took a chance building off of this. I'm happy with the results.
 
 
 
