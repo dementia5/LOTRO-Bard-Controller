@@ -21,7 +21,7 @@ First a shout out to xEdziu at https://github.com/xEdziu/midi2key. I went lookin
 
 
 I imagine this would work with any application with the right keybinds associated, although there are several games that do not allow some scripts that could be interpreted as an anti-cheat, so the player uses this at his/r own risk.
-
+See screenshots LBC1 and LBC2 for layout.
 
 
 MAKE SURE YOU RUN THIS AS ADMINISTRATOR!
