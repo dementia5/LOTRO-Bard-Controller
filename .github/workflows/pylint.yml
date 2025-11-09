@@ -1,0 +1,24 @@
+name: Pylint
+
+on:
+  push:
+    branches:
+    - main
+    - release/*
+  pull_request:
+    branches:
+    - main
+
+jobs:
+  build:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        python-version: ["3.11"]
+        os: [ubuntu-latest]
+    steps:
+    - uses: Silleellie/pylint-github-action@v2
+      with:
+        lint-path: midi2key.py
+        python-version: 3.11
+        badge-text: PyLint Score
