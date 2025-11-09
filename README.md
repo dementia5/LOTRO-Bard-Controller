@@ -28,7 +28,9 @@ I imagine this would work with any application with the right keybinds associate
 
 
 
-![screenie2](https://github.com/dementia5/LOTRO-Bard-Controller/blob/main/LBC2.jpg) for layout.
+![screenie2](https://github.com/dementia5/LOTRO-Bard-Controller/blob/main/LBC2.jpg) 
+
+
 
 
 MAKE SURE YOU RUN THIS AS ADMINISTRATOR!
