@@ -220,7 +220,5 @@ keybind constraints.
 
 
 
-*Ready to level up your LOTRO music?*
-
-*Download, connect, and play your fellowship awaits!*
+*Ready to level up your LOTRO music? Download, connect, and play your fellowship awaits!*
 
