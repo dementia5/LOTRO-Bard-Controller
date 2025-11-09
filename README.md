@@ -104,7 +104,7 @@ Change scales and chords on the fly using hotkeys so you never lose focus in-gam
 
 
 
-+ Mostly. I had problems with some combinations, particularly D#4. Here is the present table that supports Shift, Ctrl, and number key combinations for extended octaves and advanced play.
+ + Mostly. I had problems with some combinations, particularly D#4. Here is the present table that supports Shift, Ctrl, and number key combinations for extended octaves and advanced play.
 
 
 
