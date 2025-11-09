@@ -8,7 +8,7 @@
 
 *Are you a LOTRO player tired of the clunky QWERTY keyboard interface as a musical instrument?*
 
-*The LBC is a controller suite that serves as your all-in-one toolkit for seamless, expressive music-making in-game.*
+*The LBC is a controller suite that serves as your all-in-one toolkit for seamless, expressive music-making in-game. +
 
 *Designed for LOTRO players/musician bard types, this app bridges the gap between real-world MIDI*
 
@@ -104,7 +104,7 @@ Change scales and chords on the fly using hotkeys so you never lose focus in-gam
 
 
 
-* Mostly. I had problems with some combinations, particularly D#4. Here is the present table that supports Shift, Ctrl, and number key combinations for extended octaves and advanced play.
++ Mostly. I had problems with some combinations, particularly D#4. Here is the present table that supports Shift, Ctrl, and number key combinations for extended octaves and advanced play.
 
 
 
