@@ -1,4 +1,4 @@
-### **LOTRO BARD Controller Suite**
+## **LOTRO BARD Controller Suite**
 
 ### 
 
