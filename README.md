@@ -174,6 +174,10 @@ The app is optimized for playing within the root scale. Notes can travel up to t
 
 matching typical player XP progression, but has not been tested (I'm not high enough level yet!)
 
+I cannot get the ABC player to discriminate chords from single notes, therefore chords are played as 
+
+an arpeggiated note sequence rather than simultaneously. 
+
 
 
 ###### Timing Discrepancies:
