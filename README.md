@@ -44,9 +44,7 @@ MAKE SURE YOU RUN THIS AS ADMINISTRATOR!
 
 ### MIDI Interface for LOTRO
 
-Play in-game music using your MIDI keyboard or controller, bypassing awkward QWERTY
-
-keybinds. Enjoy natural, fluid performancejust like a real instrument.
+Play in-game music using your MIDI keyboard or controller, bypassing awkward QWERTY keybinds. Enjoy natural, fluid performancejust like a real instrument.
 
 
 
@@ -58,9 +56,7 @@ Select your preferred MIDI input device with ease.
 
 ### MIDI Player \& Importer
 
-Load, play, and import MIDI files. Export your performances to ABC files for use in-game or with
-
-other tools.
+Load, play, and import MIDI files. Export your performances to ABC files for use in-game or with other tools.
 
 
 
@@ -72,17 +68,13 @@ Capture your live performances and instantly convert them to ABC notation.
 
 ### Arpeggiator \& Sequencer
 
-Built-in arpeggiator with popular scales. Sequence notes and chords for dynamic, layered
-
-performances. Choose from pentatonics, dorian and more.
+Built-in arpeggiator with popular scales. Sequence notes and chords for dynamic, layered performances. Choose from pentatonics, dorian and more.
 
 
 
 ### Chord Builder
 
-Synthesize and play popular chords with a single keypress. Choose from minor,
-
-augmented, maj7 and more.
+Synthesize and play popular chords with a single keypress. Choose from minor, augmented, maj7 and more.
 
 
 
@@ -163,15 +155,14 @@ I cannot get the ABC player to discriminate chords from single notes, therefore 
 
 Timing is managed but may not be perfect, especially at higher pitches.
 
+
 All single notes playback reliably.
 
 
 
 ### Keybind Limitations:
 
-Some advanced chords or scales may require creative key combinations due to LOTROs
-
-keybind constraints.
+Some advanced chords or scales may require creative key combinations due to LOTROs keybind constraints.
 
 
 
