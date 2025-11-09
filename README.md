@@ -104,7 +104,7 @@ Change scales and chords on the fly using hotkeys so you never lose focus in-gam
 
 
 
-**MIDI Note #	Pitch		QWERTY Keybind**
+
 
 **Table: QWERTY Keybinds for MIDI Notes (B2–C5)**
 
@@ -147,7 +147,7 @@ Change scales and chords on the fly using hotkeys so you never lose focus in-gam
 The app is optimized for playing within the root scale. Notes can travel up to two scales, matching typical player XP progression, but has not been tested (I'm not high enough level yet!)
 
 
-I cannot get the ABC player to discriminate chords from single notes, therefore chords are played as an arpeggiated note sequence rather than simultaneously. 
+I cannot seem to get the ABC player to discriminate chords from single notes, therefore chords are played as an arpeggiated note sequence rather than simultaneously. 
 
 
 
