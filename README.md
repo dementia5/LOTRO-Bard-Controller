@@ -24,6 +24,10 @@ I imagine this would work with any application with the right keybinds associate
 
 
 
+MAKE SURE YOU RUN THIS AS ADMINISTRATOR!
+
+
+
 *Update: You can now use C1 and D1 to toggle between the main (ARP) tab and the second tab (Chords) and more importantly can select which scale or chord by pressing the black keys (C1# and D1#)!*
 
 
@@ -222,7 +226,7 @@ keybind constraints.
 
 ❌	**Make use of the pitchbend wheel and/or ribbon to control ARP sequences choices and chord types (will not work, midi message controls limited to notes)**
 
-\*	**Extend this to three octaves (I found several challenges awaited me. IF someone wants to do a pull request, take a crack at it... be my guest.)**
+◯	**Extend this to three octaves (I found several challenges awaited me. IF someone wants to do a pull request, take a crack at it... be my guest.)**
 
 
 
