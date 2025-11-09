@@ -119,57 +119,37 @@ Change scales and chords on the fly using hotkeys so you never lose focus in-gam
 
 **MIDI Note #	Pitch		QWERTY Keybind**
 
-47		B2		Ctrl+1
+**Table: QWERTY Keybinds for MIDI Notes (B2–C5)**
 
-48		C3		1
+| MIDI Note # | Pitch | QWERTY Keybind |
+|-------------:|:------|:---------------|
+| <span style="background-color:#ffe6e6;">47</span> | <span style="background-color:#ffe6e6;">B2</span> | <span style="background-color:#ffe6e6;">Ctrl+1</span> |
+| <span style="background-color:#fff0cc;">48</span> | <span style="background-color:#fff0cc;">C3</span> | <span style="background-color:#fff0cc;">1</span> |
+| <span style="background-color:#fff0cc;">49</span> | <span style="background-color:#fff0cc;">C#3 / Db3</span> | <span style="background-color:#fff0cc;">Ctrl+2</span> |
+| <span style="background-color:#fff0cc;">50</span> | <span style="background-color:#fff0cc;">D3</span> | <span style="background-color:#fff0cc;">2</span> |
+| <span style="background-color:#fff0cc;">51</span> | <span style="background-color:#fff0cc;">D#3 / Eb3</span> | <span style="background-color:#fff0cc;">Ctrl+3</span> |
+| <span style="background-color:#fff0cc;">52</span> | <span style="background-color:#fff0cc;">E3</span> | <span style="background-color:#fff0cc;">3</span> |
+| <span style="background-color:#fff0cc;">53</span> | <span style="background-color:#fff0cc;">F3</span> | <span style="background-color:#fff0cc;">4</span> |
+| <span style="background-color:#fff0cc;">54</span> | <span style="background-color:#fff0cc;">F#3 / Gb3</span> | <span style="background-color:#fff0cc;">Ctrl+5</span> |
+| <span style="background-color:#fff0cc;">55</span> | <span style="background-color:#fff0cc;">G3</span> | <span style="background-color:#fff0cc;">5</span> |
+| <span style="background-color:#fff0cc;">56</span> | <span style="background-color:#fff0cc;">G#3 / Ab3</span> | <span style="background-color:#fff0cc;">Ctrl+6</span> |
+| <span style="background-color:#fff0cc;">57</span> | <span style="background-color:#fff0cc;">A3</span> | <span style="background-color:#fff0cc;">6</span> |
+| <span style="background-color:#fff0cc;">58</span> | <span style="background-color:#fff0cc;">A#3 / Bb3</span> | <span style="background-color:#fff0cc;">Ctrl+7</span> |
+| <span style="background-color:#fff0cc;">59</span> | <span style="background-color:#fff0cc;">B3</span> | <span style="background-color:#fff0cc;">7</span> |
+| <span style="background-color:#e6ffe6;">60</span> | <span style="background-color:#e6ffe6;"><b>C4</b> (Middle C)</span> | <span style="background-color:#e6ffe6;">8</span> |
+| <span style="background-color:#e6ffe6;">61</span> | <span style="background-color:#e6ffe6;">C#4 / Db4</span> | <span style="background-color:#e6ffe6;">Shift+Ctrl+1</span> |
+| <span style="background-color:#e6ffe6;">62</span> | <span style="background-color:#e6ffe6;">D4</span> | <span style="background-color:#e6ffe6;">Shift+2</span> |
+| <span style="background-color:#e6ffe6;">63</span> | <span style="background-color:#e6ffe6;">D#4 / Eb4</span> | <span style="background-color:#e6ffe6;">Shift+Ctrl+3</span> |
+| <span style="background-color:#e6ffe6;">64</span> | <span style="background-color:#e6ffe6;">E4</span> | <span style="background-color:#e6ffe6;">Shift+3</span> |
+| <span style="background-color:#e6ffe6;">65</span> | <span style="background-color:#e6ffe6;">F4</span> | <span style="background-color:#e6ffe6;">Shift+4</span> |
+| <span style="background-color:#e6ffe6;">66</span> | <span style="background-color:#e6ffe6;">F#4 / Gb4</span> | <span style="background-color:#e6ffe6;">Shift+Ctrl+5</span> |
+| <span style="background-color:#e6ffe6;">67</span> | <span style="background-color:#e6ffe6;">G4</span> | <span style="background-color:#e6ffe6;">Shift+5</span> |
+| <span style="background-color:#e6ffe6;">68</span> | <span style="background-color:#e6ffe6;">G#4 / Ab4</span> | <span style="background-color:#e6ffe6;">Shift+Ctrl+6</span> |
+| <span style="background-color:#e6ffe6;">69</span> | <span style="background-color:#e6ffe6;">A4</span> | <span style="background-color:#e6ffe6;">Shift+6</span> |
+| <span style="background-color:#e6ffe6;">70</span> | <span style="background-color:#e6ffe6;">A#4 / Bb4</span> | <span style="background-color:#e6ffe6;">Shift+Ctrl+7</span> |
+| <span style="background-color:#e6ffe6;">71</span> | <span style="background-color:#e6ffe6;">B4</span> | <span style="background-color:#e6ffe6;">Shift+7</span> |
+| <span style="background-color:#e6ffe6;">72</span> | <span style="background-color:#e6ffe6;">C5</span> | <span style="background-color:#e6ffe6;">Shift+8</span> |
 
-49		C#3/Db3		Ctrl+2
-
-50		D3		2
-
-51		D#3/Eb3		Ctrl+3
-
-52		E3		3
-
-53		F3		4
-
-54		F#3/Gb3		Ctrl+5
-
-55		G3		5
-
-56		G#3/Ab3		Ctrl+6
-
-57		A3		6
-
-58		A#3/Bb3		Ctrl+7
-
-59		B3		7
-
-60		C4		8
-
-61		C#4/Db4		Shift+Ctrl+1
-
-62		D4		Shift+2
-
-63		D#4/Eb4		Shift+Ctrl+3
-
-64		E4		Shift+3
-
-65		F4		Shift+4
-
-66		F#4/Gb4		Shift+Ctrl+5
-
-67		G4		Shift+5
-
-68		G#4/Ab4		Shift+Ctrl+6
-
-69		A4		Shift+6
-
-70		A#4/Bb4		Shift+Ctrl+7
-
-71		B4		Shift+7
-
-72		C5		Shift+8
 
 
 
