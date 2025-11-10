@@ -6,8 +6,7 @@
 
 
 
-*Are you a LOTRO player tired of the clunky QWERTY keyboard interface as a musical instrument? The LBC is a controller suite that serves as your all-in-one toolkit for seamless, expressive music-making in-game. ☨
-Designed for LOTRO players/musician bard types, this app bridges the gap between real-world MIDI instruments and the immersive world of Middle-earth on the sound stage.*
+*Are you a LOTRO player tired of the clunky QWERTY keyboard interface as a musical instrument? The LBC is a controller suite that serves as your all-in-one toolkit for seamless, expressive music-making in-game. Designed for LOTRO players/musician bard types, this app bridges the gap between real-world MIDI instruments and the immersive world of Middle-earth on the sound stage.*
 
 
 
@@ -32,7 +31,7 @@ MAKE SURE YOU RUN THIS AS ADMINISTRATOR!
 
 
 
-*Update: You can now use C1 and D1 to toggle between the main (ARP) tab and the second tab (Chords) and more importantly can select which scale or chord by pressing the black keys (C1# and D1#)!*
+- *Update: You can now use C1 and D1 to toggle between the main (ARP) tab and the second tab (Chords) and more importantly can select which scale or chord by pressing the black keys (C1# and D1#)!*
 
 
 
@@ -153,10 +152,7 @@ I cannot seem to get the ABC player to discriminate chords from single notes, th
 
 ### Timing Discrepancies:
 
-Timing is managed but may not be perfect, especially at higher pitches.
-
-
-All single notes playback reliably.
+Timing is managed but may not be perfect, especially at higher pitches. All single notes playback reliably.
 
 
 
@@ -178,7 +174,7 @@ Some advanced chords or scales may require creative key combinations due to LOTR
 
 \*	Adjust scales and chords in real time using hotkeys no need to alt-tab or lose focus.
 
-\*	Why Choose LOTRO MIDI Controller Suite?
+### Why Choose LOTRO MIDI Controller Suite?
 
 \*	Play like a real musician in Middle-earth
 
@@ -200,7 +196,7 @@ Some advanced chords or scales may require creative key combinations due to LOTR
 
 ❌	**Make use of the pitchbend wheel and/or ribbon to control ARP sequences choices and chord types (will not work, midi message controls limited to notes)**
 
-◯	**Extend this to three octaves (I found several challenges awaited me. IF someone wants to do a pull request, take a crack at it... be my guest.)**
+◯	**Extend this to three octaves (I found several challenges awaited me. If someone wants to do a pull request, take a crack at it... be my guest.)**
 
 
 
