@@ -43,7 +43,7 @@ MAKE SURE YOU RUN THIS AS ADMINISTRATOR!
 
 ### MIDI Interface for LOTRO
 
-Play in-game music using your MIDI keyboard or controller, bypassing awkward QWERTY keybinds. Enjoy natural, fluid performancejust like a real instrument.
+Play in-game music using your MIDI keyboard or controller, bypassing awkward QWERTY keybinds. Enjoy natural, fluid performance just like a real instrument.
 
 
 
